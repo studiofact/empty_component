@@ -1,4 +1,14 @@
-<?
-$MESS["AD_PUBLIC_ICON_EDIT_BANNER"] = "Редактировать данный баннер";
-$MESS["AD_PUBLIC_ICON_BANNER_LIST"] = "Отфильтрованный список баннеров";
-?>
+<?php
+
+/*
+ * This file is part of the Studio Fact package.
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+if (!defined('B_PROLOG_INCLUDED') || B_PROLOG_INCLUDED !== true) {
+    die();
+}
+
+//$MESS[''] = '';
