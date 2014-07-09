@@ -4,5 +4,5 @@ if (!defined('B_PROLOG_INCLUDED') || B_PROLOG_INCLUDED !== true) {
 }
 
 $GLOBALS['APPLICATION']->AddHeadScript($templateFolder . '/script.js');
-$GLOBALS['$APPLICATION']->SetAdditionalCSS($templateFolder . '/style.css');
+$GLOBALS['APPLICATION']->SetAdditionalCSS($templateFolder . '/style.css');
 ?>
